@@ -1,0 +1,18 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Notebook",
+    "price": 50.0,
+    "stock": 1,
+    "category": "stationery",
+    "refill_limit": 5
+  },
+  "p1002": {
+    "id": "p1002",
+    "name": "shin ramen",
+    "price": 100.0,
+    "stock": 14,
+    "category": "food",
+    "refill_limit": 3
+  }
+}

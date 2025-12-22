@@ -1,0 +1,12 @@
+# backend
+backend/venv/
+backend/*.json
+backend/bills/*.pdf
+backend/__pycache__/
+
+# frontend
+frontend/app/node_modules/
+frontend/app/dist/
+
+# misc
+.env
