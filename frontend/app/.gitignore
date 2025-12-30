@@ -1,12 +1,30 @@
-# backend
+# Python
 backend/venv/
-backend/*.json
-backend/bills/*.pdf
-backend/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# frontend
+# Node
 frontend/app/node_modules/
-frontend/app/dist/
 
-# misc
+# Build output
+dist/
+build/
+
+# Environment files
 .env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
